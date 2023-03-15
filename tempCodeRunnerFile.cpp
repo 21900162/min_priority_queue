@@ -1,1 +1,2 @@
-cin
+
+        cin >> name_tmp;
